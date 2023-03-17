@@ -1,0 +1,5 @@
+rg              = "TerraformAzureSQLdb"
+regiao          = "eastus"
+env             = "p"
+nome_sistema    = "contabilidade"
+admin_user_passwd = "P@ssW0dComPl3x"
